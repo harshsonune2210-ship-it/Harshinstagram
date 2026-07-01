@@ -1,4 +1,4 @@
-<!docktype_html>
+
 <html>
 <h>
   FOLLOW KARLO DOSTO
